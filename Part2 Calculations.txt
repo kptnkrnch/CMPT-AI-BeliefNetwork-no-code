@@ -1,0 +1,5 @@
+Risk: low, med, high
+Snow: low, med, high
+Hot:  yes, no
+Rain: yes, no
+Population: small (< 150K), medium (150K-500K), large (> 500K)
